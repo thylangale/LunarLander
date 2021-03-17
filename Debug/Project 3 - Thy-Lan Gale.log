@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\NYU\Spring 2021\Game Programming\Project 3 - Thy-Lan Gale\Project 3 - Thy-Lan Gale\main.cpp(69,23): warning C4018: '<': signed/unsigned mismatch
+C:\NYU\Spring 2021\Game Programming\Project 3 - Thy-Lan Gale\Project 3 - Thy-Lan Gale\main.cpp(166,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\NYU\Spring 2021\Game Programming\Project 3 - Thy-Lan Gale\Project 3 - Thy-Lan Gale\main.cpp(169,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\NYU\Spring 2021\Game Programming\Project 3 - Thy-Lan Gale\Project 3 - Thy-Lan Gale\main.cpp(170,23): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\NYU\Spring 2021\Game Programming\Project 3 - Thy-Lan Gale\Project 3 - Thy-Lan Gale\main.cpp(173,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\NYU\Spring 2021\Game Programming\Project 3 - Thy-Lan Gale\Project 3 - Thy-Lan Gale\main.cpp(177,18): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\NYU\Spring 2021\Game Programming\Project 3 - Thy-Lan Gale\Project 3 - Thy-Lan Gale\main.cpp(179,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\NYU\Spring 2021\Game Programming\Project 3 - Thy-Lan Gale\Project 3 - Thy-Lan Gale\main.cpp(183,19): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Project 3 - Thy-Lan Gale.vcxproj -> C:\NYU\Spring 2021\Game Programming\Project 3 - Thy-Lan Gale\Debug\Project 3 - Thy-Lan Gale.exe
